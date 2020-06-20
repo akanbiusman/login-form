@@ -1,14 +1,15 @@
 body {
-    background-color: #87D68D;
+    background-color: #023E8A;
+    /*#87D68D */
 }
 
 .login-form {
     width: 360px;
     padding: 8% 0 0;
-    margin: auto;
+    margin: 80px auto;
 }
 
-.form{
+.form {
     position: relative;
     background: #fff;
     max-width: 360px;
@@ -28,26 +29,29 @@ body {
     width: 100%;
 }
 
-.form button{
+.form button {
     width: 100%;
     padding: 15px;
     font-size: 14px;
-    background: #BCEBCB;
+    background: #0077B6;
+    /*#BCEBCB*/
 }
 
-.button:hover{
-    background: #87D68D;
+.button:hover {
+    background: #0096C7;
+    /*#87D68D*/
 }
 
-.form .p{
+.form .p {
     color: #aaa6a6;
 }
 
-.form .p a{
+.form .p a {
     text-decoration: none;
-    color: #87D68D;
+    color: #0096C7;
+    /*#87D68D*/
 }
 
-a:hover{
+a:hover {
     color: #71d37a;
 }
